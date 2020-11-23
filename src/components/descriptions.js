@@ -17,7 +17,7 @@ function Descriptions() {
         </div>
         <div className = 'col'>
           <h5 className = 'title-text'>Real Friends</h5>
-          <p className = 'sub-text'>s
+          <p className = 'title-text'>s
             Who says cats and dogs can't get along? Here at Furbook, we believe all pets can be best friends. Our furbook users 					         believe it doesn't matter if you are a cat, dog, rabbit, or ferret; underneath that fur we are all cute, wonderful pets.					 </p>
          </div>
       </div>
